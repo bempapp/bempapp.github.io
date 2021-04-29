@@ -4,8 +4,8 @@ footer:
   accelerated_by: Acelerados por
   careers: Carreiras
   copyright: Direitos Reservados
-  description: O Salão Zen é uma plataforma para gestão completa para salões, barbearias, estéticas, clínicas e/ou qualquer estabelecimento que necessite controlar seus agendamentos.
-  follow: Siga o Salão Zen
+  description: A BEMP é uma plataforma para gestão completa para salões, barbearias, estéticas, clínicas e/ou qualquer estabelecimento que necessite controlar seus agendamentos.
+  follow: Siga a BEMP
   help: Central de ajuda
   privacy: Política de Privacidade
   solutions: Soluções
@@ -29,16 +29,16 @@ menu:
 pages:
   about:
     customers:
-      heading: Algumas das marcas que já confiam no Salão Zen
+      heading: Algumas das marcas que já confiam no BEMP
       subheading: QUEM JÁ É ZEN
-      text: As principais marcas, dos mais diversos segmentos, já utilizam a plataforma e confiam no trabalho do Salão Zen
+      text: As principais marcas, dos mais diversos segmentos, já utilizam a plataforma e confiam no trabalho do BEMP
     intro:
       heading: Ajudamos você a focar no que é importante
       subheading: É POSSIVEL SER ZEN
       text:
-        - item: Reduzir o trabalho desnecessário e focar no core business talvez seja um maiores desafios dos novos e antigos negócios. E é neste cenário que o <span class="salaozen">Salão Zen</span> surgiu para resolver os processos do dia-a-dia com transparência, segurança e simplicidade.
-        - item: Desde sua criação, o <span class="salaozen">Salão Zen</span> mostra que é possível fazer a diferença. É possível deixar todo controle conosco e focar todas suas energias no que é vital para o seu negócio, isso é ser <span class="salaozen">Zen</span>.
-        - item: No fim das contas, o que nós queremos com o <span class="salaozen">Salão Zen</span> é que todas as pessoas possam reinventar seus processos de trabalho através de uma plataforma com preço justo, descomplicada e transparente.
+        - item: Reduzir o trabalho desnecessário e focar no core business talvez seja um maiores desafios dos novos e antigos negócios. E é neste cenário que o <span class="bemp">BEMP</span> surgiu para resolver os processos do dia-a-dia com transparência, segurança e simplicidade.
+        - item: Desde sua criação, o <span class="bemp">BEMP</span> mostra que é possível fazer a diferença. É possível deixar todo controle conosco e focar todas suas energias no que é vital para o seu negócio, isso é ser <span class="bemp">Zen</span>.
+        - item: No fim das contas, o que nós queremos com o <span class="bemp">BEMP</span> é que todas as pessoas possam reinventar seus processos de trabalho através de uma plataforma com preço justo, descomplicada e transparente.
     jobs:
       button: Vagas abertas
       heading: Tá afim de fazer a diferença no mercado?
@@ -49,7 +49,7 @@ pages:
       subheading: SOMOS ZEN
       text:
         - item: Somos uma healthtech que desenvolve soluções simples, seguras e 100% digitais de gestão completa para salões, estéticas, barbearias e clínicas que necessitam controlar seus agendamentos.
-        - item: A plataforma <span class="salaozen">Salão Zen</span> foi pioneira em oferecer uma gestão totalmente online e com aplicativo personalizado.
+        - item: A plataforma <span class="bemp">BEMP</span> foi pioneira em oferecer uma gestão totalmente online e com aplicativo personalizado.
         - item: 'Somos ZENs, ou seja: descomplicados, justos e transparentes na conduta, diretos e objetivos na comunicação, e tratamos cada negócio como um sonho.'
         - item: Somos a favor de ouvir, entender e valorizar a sua opinião, e de merecer a sua confiança como cliente.
     tech:
@@ -58,7 +58,7 @@ pages:
         text: O App se destaca pela experiência mais consistente de uma aplicação nativa e não adaptada. Isso reflete diretamente no funcionamento, velocidade e compatibilidade com diversos aparelhos.
       cloud:
         heading: Tudo na nuvem
-        text: A plataforma Salão Zen roda inteiramente na nuvem, o que garante o acesso a qualquer momento, de qualquer lugar do mundo e com qualquer dispositivo que tenha acesso a internet.
+        text: A plataforma BEMP roda inteiramente na nuvem, o que garante o acesso a qualquer momento, de qualquer lugar do mundo e com qualquer dispositivo que tenha acesso a internet.
       heading: Inovação e tecnologia está no nosso DNA
       online:
         heading: Sempre disponível
@@ -68,7 +68,7 @@ pages:
         text: Todos os acessos ao sistema e suas transações são criptografados e rodam sob protocolo seguro (HTTPS). Isso garante o sigilo e a segurança de todas as informações dentro da plataforma.
       subheading: TECNOLOGIA DE PONTA
       text: Porém, mais importante que isso, é como essa tecnologia se reverte em benefícios para os clientes e usuários da plataforma.
-    title: Sobre o Salão Zen
+    title: Sobre a BEMP
   contact:
     button: Enviar
     company: Empresa
@@ -173,7 +173,7 @@ pages:
         - item: Bloqueios de dias ou horários no nível de unidade e profissional
     title: Funcionalidades
   home:
-    contact_button: Conhecer o Salão Zen
+    contact_button: Conhecer a BEMP
     header: Uma plataforma completa para gerir e otimizar todo funcionamento do seu estabelecimento, desde o agendamento até o pagamento das comissões dos profissionais, passando pela gestão dos serviços/produtos, estoque, formas de pagamento, caixas e muito mais.
     title: Home
     typewrite: Perfeito para

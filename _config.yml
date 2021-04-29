@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Salão Zen - Plataforma de agendamentos on-line
-author: Salão Zen Desenvolvimento de Sistemas
-generator: Salão Zen Desenvolvimento de Sistemas
+title: BEMP - Plataforma de agendamentos on-line
+author: BEMP Desenvolvimento de Sistemas
+generator: BEMP Desenvolvimento de Sistemas
 lang: pt_BR
 description: >-
-  O Salão Zen é uma plataforma para gestão completa para salões, estéticas, barbearias e/ou qualquer estabelecimento que necessite controlar seus agendamentos.
+  A BEMP é uma plataforma para gestão completa para salões, estéticas, barbearias e/ou qualquer estabelecimento que necessite controlar seus agendamentos.
 keywords: >-
-  Salão Zen, salaozen, salaozenapp, La Máfia Barbearia, App La Máfia, sistema salão, sistema barbearia, sistema estéticas, sistema de agendamento online, Salao Vip, salaovip, Awec, avecbrasil, Beauty Date, beautydate, AppBarber, appbarber
+  BEMP, Salão Zen, salaozen, salaozenapp, La Máfia Barbearia, App La Máfia, sistema salão, sistema barbearia, sistema estéticas, sistema de agendamento online, Salao Vip, salaovip, Awec, avecbrasil, Beauty Date, beautydate, AppBarber, appbarber
 social:
-  name: Salão Zen
+  name: BEMP
   links:
     - https://www.facebook.com/salaozenapp
     - https://www.instagram.com/salaozenapp/
@@ -35,7 +35,7 @@ social:
     - https://www.linkedin.com/company/salaozenapp/
     - https://github.com/salaozen
 
-url: "https://www.salaozen.com.br"
+url: "https://bempapp.github.io"
 baseurl: "" # "/salao-zen-website" # the subpath of your site, e.g. /blog
 
 permalink: :slug
