@@ -1,1 +1,1 @@
-Sitemap: https://www.salaozen.com.br/es/sitemap.xml
+Sitemap: https://bempapp.github.io/es/sitemap.xml
