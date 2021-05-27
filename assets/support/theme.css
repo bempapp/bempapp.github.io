@@ -3846,7 +3846,7 @@ textarea {
 }
 
 a {
-    color: #1fb299;
+    color: #5f2482;
     text-decoration: none
 }
 
@@ -4040,7 +4040,7 @@ blockquote {
 }
 
 blockquote.is-colored {
-    border-left: 5px solid #1fb299
+    border-left: 5px solid #5f2482
 }
 
 blockquote p:last-child,
@@ -4552,8 +4552,8 @@ button.btn.btn-primary,
 .sidebar .btn,
 #change-password .password_cont form input.has-error {
     color: #fff !important;
-    background-color: #1fb299 !important;
-    border-color: #1fb299 !important
+    background-color: #5f2482 !important;
+    border-color: #5f2482 !important
 }
 
 #topic-vote-down-button:hover,
@@ -4592,8 +4592,8 @@ a.n,
 button.n,
 .n {
     color: #fff !important;
-    background-color: #1fb299 !important;
-    border-color: #1fb299 !important
+    background-color: #5f2482 !important;
+    border-color: #5f2482 !important
 }
 
 a.n:hover,
@@ -4718,8 +4718,8 @@ button.n:active,
 
 .o {
     color: #fff !important;
-    background-color: #1fb299 !important;
-    border-color: #1fb299 !important
+    background-color: #5f2482 !important;
+    border-color: #5f2482 !important
 }
 
 .o:hover,
@@ -4785,8 +4785,8 @@ button.n:active,
 
 .r.h {
     color: #fff;
-    background-color: #1fb299;
-    border-color: #1fb299
+    background-color: #5f2482;
+    border-color: #5f2482
 }
 
 .s {
@@ -7006,11 +7006,11 @@ fieldset[disabled] input[type="checkbox"] {
 }
 
 .ia>li a {
-    color: #1fb299
+    color: #5f2482
 }
 
 .ia>li:last-child a {
-    color: #1fb299
+    color: #5f2482
 }
 
 .ib {
@@ -7362,7 +7362,7 @@ fieldset[disabled] input[type="checkbox"] {
 .search-results-filters .nav-pills>.active>a,
 .search-results-filters .nav-pills>.active>a:hover {
     box-shadow: none;
-    background-color: #1fb299;
+    background-color: #5f2482;
     color: #fff
 }
 
@@ -7502,13 +7502,13 @@ fieldset[disabled] input[type="checkbox"] {
     padding: 1px 6px;
     font-size: 14px;
     color: #fff;
-    background-color: #1fb299;
+    background-color: #5f2482;
     border-radius: 0 0 4px 4px
 }
 
 .jd .iy {
     position: relative;
-    border: 1px solid #1fb299;
+    border: 1px solid #5f2482;
     border-radius: 4px;
     background-color: #f2f2f2;
     padding-top: 24px;
@@ -7674,7 +7674,7 @@ fieldset[disabled] input[type="checkbox"] {
 }
 
 .jr {
-    stroke: #1fb299
+    stroke: #5f2482
 }
 
 .jt {
@@ -7682,7 +7682,7 @@ fieldset[disabled] input[type="checkbox"] {
 }
 
 .ju {
-    fill: #1fb299
+    fill: #5f2482
 }
 
 .jv {
@@ -7822,12 +7822,12 @@ fieldset[disabled] input[type="checkbox"] {
 
 .ki,
 .note--success {
-    border-color: #1fb299
+    border-color: #5f2482
 }
 
 .ki .ke,
 .note--success .ke {
-    color: #1fb299
+    color: #5f2482
 }
 
 .kj,
@@ -7857,7 +7857,7 @@ fieldset[disabled] input[type="checkbox"] {
 
 .kl {
     position: relative;
-    background: #1fb299
+    background: #5f2482
 }
 
 @media (max-width: 45em) {
@@ -8002,8 +8002,8 @@ fieldset[disabled] input[type="checkbox"] {
 .pagination ul>li>span:focus {
     z-index: 2;
     color: #fff;
-    background-color: #1fb299;
-    border-color: #1fb299;
+    background-color: #5f2482;
+    border-color: #5f2482;
     border-radius: 4px !important
 }
 
@@ -8017,7 +8017,7 @@ fieldset[disabled] input[type="checkbox"] {
 }
 
 .topbar.topbar--with-image {
-    background:  url('https://www.salaozen.com.br/assets/support/header_bg.webp') no-repeat center; /* url('https://picjumbo.com/wp-content/uploads/using-iphone-6-on-business-meeting-2210x1473.jpg') no-repeat center; */
+    background:  url('https://www.bemp.com.br/assets/support/header_bg.webp') no-repeat center; /* url('https://picjumbo.com/wp-content/uploads/using-iphone-6-on-business-meeting-2210x1473.jpg') no-repeat center; */
     background-size: cover;
     position: relative;
     z-index: 2
@@ -8028,7 +8028,7 @@ fieldset[disabled] input[type="checkbox"] {
     display: block;
     width: 100%;
     height: 100%;
-    background: #1fb299;
+    background: #5f2482;
     opacity: .8;
     position: absolute;
     top: 0;
@@ -8224,7 +8224,7 @@ fieldset[disabled] input[type="checkbox"] {
 
 .topbar--small {
     color: #fff;
-    background-color: #1fb299
+    background-color: #5f2482
 }
 
 .topbar--small .la {
@@ -8265,7 +8265,7 @@ fieldset[disabled] input[type="checkbox"] {
 
 .topbar--large {
     padding-bottom: 210px;
-    background-color: #1fb299;
+    background-color: #5f2482;
     background-image: radial-gradient(at 25% 40% at 25% 40%, #7470a8 0%, #64609f 50%, #5a578f 110%);
     color: #fff;
     overflow: hidden
@@ -8321,7 +8321,7 @@ a[href="/signup"] {
     font-size: 32px !important;
     line-height: 45px !important;
     text-align: center;
-    border: 1px solid #1fb299;
+    border: 1px solid #5f2482;
     border-radius: 4px;
     transition: bottom 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     width: 50px;
@@ -8750,7 +8750,7 @@ a[href="/signup"] {
 }
 
 .waves--small {
-    color: #1fb299;
+    color: #5f2482;
     position: relative;
     margin-bottom: 24px;
     margin-top: -1px
@@ -8781,11 +8781,11 @@ a[href="/signup"] {
 }
 
 .waves__wave--footer-primary {
-    fill: #1fb299
+    fill: #5f2482
 }
 
 .waves__wave-footer-with-opacity {
-    fill: #1fb299
+    fill: #5f2482
 }
 
 .lu {
@@ -9002,7 +9002,7 @@ a[href="/signup"] {
 }
 
 .freshid_login .agent-login-link a {
-    color: #1fb299
+    color: #5f2482
 }
 
 .freshid_login .agent-login-link .agent-login-icon {
@@ -9235,7 +9235,7 @@ a[href="/signup"] {
     display: block;
     padding: 22px 20px !important;
     font-weight: 400;
-    color: #1fb299;
+    color: #5f2482;
     text-align: left !important;
     vertical-align: middle;
     background-color: #fff;
@@ -9248,7 +9248,7 @@ a[href="/signup"] {
 .nd:focus,
 .nd:hover {
     text-decoration: none;
-    background-color: #1fb299
+    background-color: #5f2482
 }
 
 .nd:active .ne,
@@ -9329,7 +9329,7 @@ a[href="/signup"] {
 }
 
 .nl {
-    color: #1fb299
+    color: #5f2482
 }
 
 #article-author {
@@ -9691,8 +9691,8 @@ a[href="/signup"] {
     width: 8px;
     height: 8px;
     margin-top: -4px;
-    border-bottom: 2px solid #1fb299;
-    border-left: 2px solid #1fb299;
+    border-bottom: 2px solid #5f2482;
+    border-left: 2px solid #5f2482;
     -webkit-transform: rotate(-45deg);
     transform: rotate(-45deg);
     transition: -webkit-transform 0.3s;
@@ -9740,7 +9740,7 @@ a[href="/signup"] {
 }
 
 .accordion--colored .accordion__item-title--active {
-    background-color: #1fb299;
+    background-color: #5f2482;
     color: #fff;
     transition: background-color 0.3s
 }
@@ -9892,7 +9892,7 @@ img.fr-rounded {
 
 .callout--primary {
     color: #fff;
-    background-color: #1fb299;
+    background-color: #5f2482;
     border-color: #383659
 }
 
@@ -9929,7 +9929,7 @@ img.fr-rounded {
     font-size: 14px;
     width: 30px;
     height: 30px;
-    background-color: #1fb299;
+    background-color: #5f2482;
     border-radius: 50%;
     z-index: 1;
     color: #fff;
@@ -9957,7 +9957,7 @@ img.fr-rounded {
     font-weight: 400;
     font-style: normal;
     content: "";
-    color: #1fb299
+    color: #5f2482
 }
 
 .list-bullet ul {
@@ -10096,7 +10096,7 @@ img.fr-rounded {
 }
 
 .table-color-header th {
-    background-color: #1fb299;
+    background-color: #5f2482;
     color: #fff
 }
 
@@ -10201,7 +10201,7 @@ img.fr-rounded {
 }
 
 .tabs-link:hover {
-    color: #1fb299
+    color: #5f2482
 }
 
 @media (max-width: 767px) {
@@ -10228,12 +10228,12 @@ img.fr-rounded {
 
 .tabs-link.is-active {
     border-color: #ddd;
-    color: #1fb299;
+    color: #5f2482;
     cursor: pointer
 }
 
 .tabs-link.is-active:hover {
-    color: #1fb299;
+    color: #5f2482;
     cursor: default
 }
 
@@ -10255,13 +10255,13 @@ img.fr-rounded {
 }
 
 .tabs--colored-2 .tabs-link:hover {
-    color: #1fb299
+    color: #5f2482
 }
 
 .tabs--colored-2 .tabs-link.is-active {
-    background-color: #1fb299;
+    background-color: #5f2482;
     color: #fff;
-    border-color: #1fb299
+    border-color: #5f2482
 }
 
 .tabs--colored-2 .tabs-link.is-active:hover {
@@ -10301,7 +10301,7 @@ img.fr-rounded {
 }
 
 .text-success {
-    background-color: #1fb299
+    background-color: #5f2482
 }
 
 .fr-text-gray {
@@ -10437,7 +10437,7 @@ img.fr-rounded {
     padding: 24px 15px;
     border-radius: 4px;
     background-color: #fff;
-    color: #1fb299;
+    color: #5f2482;
     text-align: center;
     font-weight: 600;
     transition: all 0.3s ease
@@ -10453,7 +10453,7 @@ img.fr-rounded {
 .os:active,
 .os:focus,
 .os:hover {
-    background-color: #1fb299;
+    background-color: #5f2482;
     color: #fff;
     text-decoration: none
 }
@@ -10514,8 +10514,8 @@ img.fr-rounded {
 
 .forum-buttons a:not(.btn-small) {
     color: #fff !important;
-    background-color: #1fb299 !important;
-    border-color: #1fb299 !important
+    background-color: #5f2482 !important;
+    border-color: #5f2482 !important
 }
 
 .forum-buttons a:not(.btn-small):hover,
@@ -10830,7 +10830,7 @@ img.fr-rounded {
 }
 
 #catalog-container .catalog-sidebar ul li span a {
-    color: #1fb299;
+    color: #5f2482;
     display: block;
     width: 100%;
     font-weight: 400
@@ -10838,7 +10838,7 @@ img.fr-rounded {
 
 #catalog-container .catalog-sidebar ul li.active,
 #catalog-container .catalog-sidebar ul li:hover {
-    background-color: #1fb299;
+    background-color: #5f2482;
     border-left: 2px solid #383659
 }
 
@@ -11224,11 +11224,11 @@ a.c-link {
 }
 
 .breadcrumbs>li a {
-    color: #1fb299
+    color: #5f2482
 }
 
 .breadcrumbs>li:last-child a {
-    color: #1fb299
+    color: #5f2482
 }
 
 .breadcrumbs--search-results {
@@ -11360,7 +11360,7 @@ a.c-link {
     padding: 1px 6px;
     font-size: 14px;
     color: #fff;
-    background-color: #1fb299;
+    background-color: #5f2482;
     border-radius: 0 0 4px 4px
 }
 
@@ -11368,7 +11368,7 @@ a.c-link {
     position: relative;
     padding: 24px 24px;
     background-color: #f2f2f2;
-    border: 1px solid #1fb299;
+    border: 1px solid #5f2482;
     border-radius: 4px
 }
 
@@ -11530,7 +11530,7 @@ a.c-link {
     display: block;
     padding: 24px 15px;
     border-radius: 4px;
-    background-color: #1fb299;
+    background-color: #5f2482;
     color: #fff;
     text-align: center;
     font-weight: 600;
@@ -11547,7 +11547,7 @@ a.c-link {
 .forum-category-list-item__link:active,
 .forum-category-list-item__link:focus,
 .forum-category-list-item__link:hover {
-    background-color: #1fb299;
+    background-color: #5f2482;
     color: #fff;
     text-decoration: none
 }
