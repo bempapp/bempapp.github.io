@@ -29,28 +29,28 @@ menu:
 pages:
   about:
     customers:
-      heading: Algumas das marcas que já confiam no BEMP
-      subheading: QUEM JÁ É ZEN
-      text: As principais marcas, dos mais diversos segmentos, já utilizam a plataforma e confiam no trabalho do BEMP
+      heading: Algumas das marcas que já confiam na BEMP
+      subheading: QUEM JÁ É BEMP
+      text: As principais marcas, dos mais diversos segmentos, já utilizam a plataforma e confiam no trabalho da BEMP
     intro:
       heading: Ajudamos você a focar no que é importante
-      subheading: É POSSIVEL SER ZEN
+      subheading: É POSSIVEL SER BEMP
       text:
         - item: Reduzir o trabalho desnecessário e focar no core business talvez seja um maiores desafios dos novos e antigos negócios. E é neste cenário que o <span class="bemp">BEMP</span> surgiu para resolver os processos do dia-a-dia com transparência, segurança e simplicidade.
-        - item: Desde sua criação, o <span class="bemp">BEMP</span> mostra que é possível fazer a diferença. É possível deixar todo controle conosco e focar todas suas energias no que é vital para o seu negócio, isso é ser <span class="bemp">Zen</span>.
+        - item: Desde sua criação, o <span class="bemp">BEMP</span> mostra que é possível fazer a diferença. É possível deixar todo controle conosco e focar todas suas energias no que é vital para o seu negócio, isso é ser <span class="bemp">BEMP</span>.
         - item: No fim das contas, o que nós queremos com o <span class="bemp">BEMP</span> é que todas as pessoas possam reinventar seus processos de trabalho através de uma plataforma com preço justo, descomplicada e transparente.
     jobs:
       button: Vagas abertas
       heading: Tá afim de fazer a diferença no mercado?
-      subheading: VOCÊ TAMBÉM PODE SER ZEN
+      subheading: VOCÊ TAMBÉM PODE SER BEMP
       text: Se você cansou das mesmas soluções para problemas antigos, se você quer ter e testar novas ideias e se você acredita que design, tecnologia e um bom atendimento resolvem qualquer problema, conheça as nossas carreiras. Procuramos pessoas para simplificar o mundo e reinventar o possível com a gente.
     office:
       heading: O que nos torna diferentes?
-      subheading: SOMOS ZEN
+      subheading: SOMOS BEMP
       text:
         - item: Somos uma healthtech que desenvolve soluções simples, seguras e 100% digitais de gestão completa para salões, estéticas, barbearias e clínicas que necessitam controlar seus agendamentos.
         - item: A plataforma <span class="bemp">BEMP</span> foi pioneira em oferecer uma gestão totalmente online e com aplicativo personalizado.
-        - item: 'Somos ZENs, ou seja: descomplicados, justos e transparentes na conduta, diretos e objetivos na comunicação, e tratamos cada negócio como um sonho.'
+        - item: 'Somos BEMPers, ou seja: descomplicados, justos e transparentes na conduta, diretos e objetivos na comunicação, e tratamos cada negócio como um sonho.'
         - item: Somos a favor de ouvir, entender e valorizar a sua opinião, e de merecer a sua confiança como cliente.
     tech:
       app:
