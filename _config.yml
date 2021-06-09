@@ -29,11 +29,11 @@ keywords: >-
 social:
   name: BEMP
   links:
-    - https://www.facebook.com/salaozenapp
-    - https://www.instagram.com/salaozenapp/
-    - https://twitter.com/salaozenapp
-    - https://www.linkedin.com/company/salaozenapp/
-    - https://github.com/salaozen
+    - https://www.facebook.com/bempapp
+    - https://www.instagram.com/bemp.app/
+    - https://twitter.com/bempapp
+    - https://www.linkedin.com/company/bempapp/
+    - https://github.com/bempapp
 
 url: "https://bempapp.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -61,7 +61,7 @@ plugins:
 
 jekyll_analytics:
   GoogleAnalytics:
-    id: UA-127257196-1
+    id: UA-136405219-3
     anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
 languages: ["pt", "en", "es"]
