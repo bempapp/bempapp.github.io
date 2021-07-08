@@ -35,7 +35,7 @@ social:
     - https://www.linkedin.com/company/bempapp/
     - https://github.com/bempapp
 
-url: "https://bempapp.github.io"
+url: "https://bemp.com.br"
 baseurl: "" # the subpath of your site, e.g. /blog
 
 permalink: :slug
