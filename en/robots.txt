@@ -1,1 +1,1 @@
-Sitemap: https://bempapp.github.io/en/sitemap.xml
+Sitemap: https://bemp.com.br/en/sitemap.xml
