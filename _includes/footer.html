@@ -13,7 +13,8 @@
           <div class="ftco-footer-widget mb-4">
             <h2 class="ftco-heading-2">{% translate footer.about %}</h2>
             <ul class="list-unstyled">
-                <li><a href="about" class="py-2 d-block">{% translate footer.who_we_are %}</a></li>
+                <li><a href="{% tl about %}" class="py-2 d-block">{% translate footer.who_we_are %}</a></li>
+                <li><a href="https://blog.bemp.com.br" target="_blank" class="py-2 d-block">Blog</a></li>
                 <li><a href="https://www.linkedin.com/company/bempapp/jobs/" target="_blank" class="py-2 d-block">{% translate footer.careers %}</a></li>
                 <li><a href="http://ajuda.bemp.com.br" target="_blank" class="py-2 d-block">{% translate footer.help %}</a></li>
             </ul>
@@ -23,10 +24,10 @@
           <div class="ftco-footer-widget mb-4">
             <h2 class="ftco-heading-2">{% translate footer.solutions %}</h2>
             <ul class="list-unstyled">
-                <li><a href="features" class="py-2 d-block">{% translate menu.features %}</a></li>
+                <li><a href="{% tl features %}" class="py-2 d-block">{% translate menu.features %}</a></li>
                 {% if jekyll.environment == 'development' %}
-                <li><a href="app" class="py-2 d-block">{% translate menu.app %}</a></li>
-                <li><a href="plans" class="py-2 d-block">{% translate menu.plans %}</a></li>
+                <li><a href="{% tl app %}" class="py-2 d-block">{% translate menu.app %}</a></li>
+                <li><a href="{% tl plans %}" class="py-2 d-block">{% translate menu.plans %}</a></li>
                 {% endif %}
             </ul>
           </div>
