@@ -9,8 +9,8 @@ type: application/xml
     {% if p.namespace %}
     <url>
       <loc>{{site.url}}{{p.permalink}}</loc>
-      <xhtml:link rel="alternate" hreflang="en" href="{{site.url}}{{p.permalink_en}}"/>
-      <xhtml:link rel="alternate" hreflang="es" href="{{site.url}}{{p.permalink_es}}"/>
+      <xhtml:link rel="alternate" hreflang="en" href="{{site.url}}/en{{p.permalink_en}}"/>
+      <xhtml:link rel="alternate" hreflang="es" href="{{site.url}}/es{{p.permalink_es}}"/>
     </url>    
     {% endif %}
   {% endfor%}
