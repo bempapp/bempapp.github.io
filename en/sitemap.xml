@@ -1,24 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://bemp.com.br/en/about</loc>
-</url>
-<url>
-<loc>https://bemp.com.br/en/contact</loc>
-</url>
-<url>
-<loc>https://bemp.com.br/en/features</loc>
-</url>
-<url>
-<loc>https://bemp.com.br/en/</loc>
-</url>
-<url>
-<loc>https://bemp.com.br/en/plans</loc>
-</url>
-<url>
-<loc>https://bemp.com.br/en/privacy-policy</loc>
-</url>
-<url>
-<loc>https://bemp.com.br/en/terms-of-use</loc>
-</url>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+  
+    
+    <url>
+      <loc>https://bemp.com.br/sobre</loc>
+      <xhtml:link rel="alternate" hreflang="en" href="https://bemp.com.br/about"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://bemp.com.br/sobre"/>
+    </url>    
+    
+  
+    
+    <url>
+      <loc>https://bemp.com.br/contato</loc>
+      <xhtml:link rel="alternate" hreflang="en" href="https://bemp.com.br/contact"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://bemp.com.br/contacto"/>
+    </url>    
+    
+  
+    
+    <url>
+      <loc>https://bemp.com.br/funcionalidades</loc>
+      <xhtml:link rel="alternate" hreflang="en" href="https://bemp.com.br/features"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://bemp.com.br/caracteristicas"/>
+    </url>    
+    
+  
+    
+    <url>
+      <loc>https://bemp.com.br/</loc>
+      <xhtml:link rel="alternate" hreflang="en" href="https://bemp.com.br"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://bemp.com.br"/>
+    </url>    
+    
+  
+    
+    <url>
+      <loc>https://bemp.com.br/planos</loc>
+      <xhtml:link rel="alternate" hreflang="en" href="https://bemp.com.br/plans"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://bemp.com.br/planes"/>
+    </url>    
+    
+  
+    
+    <url>
+      <loc>https://bemp.com.br/privacy-policy</loc>
+      <xhtml:link rel="alternate" hreflang="en" href="https://bemp.com.br"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://bemp.com.br"/>
+    </url>    
+    
+  
+    
+  
+    
+  
+    
+    <url>
+      <loc>https://bemp.com.br/terms-of-use</loc>
+      <xhtml:link rel="alternate" hreflang="en" href="https://bemp.com.br"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://bemp.com.br"/>
+    </url>    
+    
+  
+  <url><loc>https://blog.bemp.com.br</loc></url> 
 </urlset>
