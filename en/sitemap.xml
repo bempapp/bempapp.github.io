@@ -6,48 +6,48 @@
     
     <url>
       <loc>https://bemp.com.br/sobre</loc>
-      <xhtml:link rel="alternate" hreflang="en" href="https://bemp.com.br/about"/>
-      <xhtml:link rel="alternate" hreflang="es" href="https://bemp.com.br/sobre"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://bemp.com.br/en/about"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://bemp.com.br/es/sobre"/>
     </url>    
     
   
     
     <url>
       <loc>https://bemp.com.br/contato</loc>
-      <xhtml:link rel="alternate" hreflang="en" href="https://bemp.com.br/contact"/>
-      <xhtml:link rel="alternate" hreflang="es" href="https://bemp.com.br/contacto"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://bemp.com.br/en/contact"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://bemp.com.br/es/contacto"/>
     </url>    
     
   
     
     <url>
       <loc>https://bemp.com.br/funcionalidades</loc>
-      <xhtml:link rel="alternate" hreflang="en" href="https://bemp.com.br/features"/>
-      <xhtml:link rel="alternate" hreflang="es" href="https://bemp.com.br/caracteristicas"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://bemp.com.br/en/features"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://bemp.com.br/es/caracteristicas"/>
     </url>    
     
   
     
     <url>
       <loc>https://bemp.com.br/</loc>
-      <xhtml:link rel="alternate" hreflang="en" href="https://bemp.com.br"/>
-      <xhtml:link rel="alternate" hreflang="es" href="https://bemp.com.br"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://bemp.com.br/en"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://bemp.com.br/es"/>
     </url>    
     
   
     
     <url>
       <loc>https://bemp.com.br/planos</loc>
-      <xhtml:link rel="alternate" hreflang="en" href="https://bemp.com.br/plans"/>
-      <xhtml:link rel="alternate" hreflang="es" href="https://bemp.com.br/planes"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://bemp.com.br/en/plans"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://bemp.com.br/es/planes"/>
     </url>    
     
   
     
     <url>
       <loc>https://bemp.com.br/privacy-policy</loc>
-      <xhtml:link rel="alternate" hreflang="en" href="https://bemp.com.br"/>
-      <xhtml:link rel="alternate" hreflang="es" href="https://bemp.com.br"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://bemp.com.br/en"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://bemp.com.br/es"/>
     </url>    
     
   
@@ -58,8 +58,8 @@
     
     <url>
       <loc>https://bemp.com.br/terms-of-use</loc>
-      <xhtml:link rel="alternate" hreflang="en" href="https://bemp.com.br"/>
-      <xhtml:link rel="alternate" hreflang="es" href="https://bemp.com.br"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://bemp.com.br/en"/>
+      <xhtml:link rel="alternate" hreflang="es" href="https://bemp.com.br/es"/>
     </url>    
     
   
