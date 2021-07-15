@@ -10,7 +10,6 @@ group :jekyll_plugins do
   gem 'jekyll-image-size'
   gem 'jekyll-multiple-languages-plugin'
   gem 'jekyll-seo-tag'
-  gem 'jekyll-sitemap'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

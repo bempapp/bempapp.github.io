@@ -57,7 +57,6 @@ plugins:
   - jekyll-image-size
   - jekyll-multiple-languages-plugin
   - jekyll-seo-tag
-  - jekyll-sitemap
 
 jekyll_analytics:
   GoogleAnalytics:

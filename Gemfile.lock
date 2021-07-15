@@ -38,8 +38,6 @@ GEM
       sass (~> 3.4)
     jekyll-seo-tag (2.6.1)
       jekyll (>= 3.3, < 5.0)
-    jekyll-sitemap (1.4.0)
-      jekyll (>= 3.7, < 5.0)
     jekyll-theme-minimal (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
@@ -74,7 +72,6 @@ DEPENDENCIES
   jekyll-image-size
   jekyll-multiple-languages-plugin
   jekyll-seo-tag
-  jekyll-sitemap
   jekyll-theme-minimal
   tzinfo (~> 1.2)
   tzinfo-data

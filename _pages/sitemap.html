@@ -1,0 +1,18 @@
+---
+layout: blank
+permalink: /sitemap.xml
+type: application/xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  {% for p in site.pages %}
+    {% if p.namespace %}
+    <url>
+      <loc>{{site.url}}{{p.permalink}}</loc>
+      <xhtml:link rel="alternate" hreflang="en" href="{{site.url}}{{p.permalink_en}}"/>
+      <xhtml:link rel="alternate" hreflang="es" href="{{site.url}}{{p.permalink_es}}"/>
+    </url>    
+    {% endif %}
+  {% endfor%}
+  <url><loc>https://blog.bemp.com.br</loc></url> 
+</urlset>
