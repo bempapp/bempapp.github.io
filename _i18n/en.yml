@@ -73,6 +73,7 @@ pages:
     button: Send
     company: Company
     email: E-mail
+    error: Ops! We had some problem sending your message.<br/><br/>Please try again later or contact us at  <b>atendimento@bemp.com.br</b>
     message: Message
     name: Name
     phone: Phone

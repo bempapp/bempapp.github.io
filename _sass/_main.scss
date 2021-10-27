@@ -1768,7 +1768,8 @@ textarea.form-control {
   opacity: 1;
 }
 
-#ftco-loader .circular {
+#ftco-loader .circular,
+#contact-overlay .circular {
   animation: loader-rotate 2s linear infinite;
   position: absolute;
   left: calc(50% - 24px);
@@ -1777,7 +1778,8 @@ textarea.form-control {
   transform: rotate(0deg);
 }
 
-#ftco-loader .path {
+#ftco-loader .path,
+#contact-overlay .path {
   stroke-dasharray: 1, 200;
   stroke-dashoffset: 0;
   animation: loader-dash 1.5s ease-in-out infinite;
