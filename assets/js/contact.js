@@ -104,6 +104,7 @@
         createCard(
           input: {
             pipe_id: 301858572,
+            label_ids: ["305926550"],
             fields_attributes:[
               { field_id: "nome", field_value: "${data.name}"},
               { field_id:"email", field_value: "${data.email}"},
