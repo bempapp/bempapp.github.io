@@ -87,15 +87,17 @@
     contact.webnote = data.message;
     contact.tags = "Website Contact";
     _agile.create_contact(contact, {
-        success: onSuccess,
+        success: onSuccessAgilecrm,
         error: function () {
           _agile.set_email(contact.email)
           _agile.update_contact(contact, {
-            success: onSuccess,
-            error: onError
+            success: onSuccessAgilecrm,
+            error: onErrorAgilecrm
           });
         }
     });
+    function onSuccessAgilecrm() {}
+    function onErrorAgilecrm() {}
   }
 
   function savePipefy(data) {
@@ -138,11 +140,18 @@
 
   function onSuccess() {
     $('#gform').hide();
-    $('#success').attr('class', 'd-block');
+    $('#contact-overlay').removeClass('d-flex');
+    $('#contact-overlay').addClass('d-none');
+    $('#success').removeClass('d-none');
+    $('#success').addClass('d-block');
   }
-
+  
   function onError(data) {
-    $('#error').attr('class', 'd-block');
+    $('#gform').hide();
+    $('#contact-overlay').removeClass('d-flex');
+    $('#contact-overlay').addClass('d-none');
+    $('#error').removeClass('d-none');
+    $('#error').addClass('d-block');
     console.log("error", data);
   }
 
@@ -151,9 +160,12 @@
 
     if (!formValid()) return false;
 
+    $('#contact-overlay').removeClass('d-none');
+    $('#contact-overlay').addClass('d-flex');
+
     var data = getFormData(event.target);
     
     saveAgilecrm(data);
-    savePipefy(data); // .then(response => onSuccess()).catch(err => onError(err));
+    savePipefy(data).then(response => onSuccess()).catch(err => onError(err));
   });
 })(jQuery);
