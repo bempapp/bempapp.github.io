@@ -78,28 +78,6 @@
     return formData;
   }
 
-  function saveAgilecrm(data) {
-    var contact = {};
-    contact.email = data.email;
-    contact.first_name = data.name;
-    contact.company = data.organization;
-    contact.phone = data.phone;
-    contact.webnote = data.message;
-    contact.tags = "Website Contact";
-    _agile.create_contact(contact, {
-        success: onSuccessAgilecrm,
-        error: function () {
-          _agile.set_email(contact.email)
-          _agile.update_contact(contact, {
-            success: onSuccessAgilecrm,
-            error: onErrorAgilecrm
-          });
-        }
-    });
-    function onSuccessAgilecrm() {}
-    function onErrorAgilecrm() {}
-  }
-
   function savePipefy(data) {
     var payload = `
       mutation { 
@@ -165,7 +143,6 @@
 
     var data = getFormData(event.target);
     
-    saveAgilecrm(data);
     savePipefy(data).then(response => onSuccess()).catch(err => onError(err));
   });
 })(jQuery);
