@@ -99,15 +99,11 @@
     `
     var options = {
       method: 'POST',
-      headers: {
-        Accept: 'application/json',
-        Authorization: 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJ1c2VyIjp7ImlkIjozMDE0MzMzOTAsImVtYWlsIjoiY2VudGVub0BiZW1wLmNvbS5iciIsImFwcGxpY2F0aW9uIjozMDAxMTkyMzd9fQ.seaN9fW5gwTX2zBDt1ttUx4bscrQ3IQ701juv7GXayO0t7kB58cT6eF_BE-o2dbRamGAaAR6OHhvKFpUwZPjtg',
-        'Content-Type': 'application/json'
-      },
+      headers: { Accept: 'application/json' },
       body: JSON.stringify({ query: payload })
     }
   
-    return fetch('https://api.pipefy.com/graphql', options)
+    return fetch('https://9behrtqtuj.execute-api.us-east-1.amazonaws.com/pipefy-api-prod/leads', options)
       .then(response => response.json())
       .then(response => {
         if (response.errors !== undefined) {
