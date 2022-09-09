@@ -78,28 +78,6 @@
     return formData;
   }
 
-  function saveAgilecrm(data) {
-    var contact = {};
-    contact.email = data.email;
-    contact.first_name = data.name;
-    contact.company = data.organization;
-    contact.phone = data.phone;
-    contact.webnote = data.message;
-    contact.tags = "Website Contact";
-    _agile.create_contact(contact, {
-        success: onSuccessAgilecrm,
-        error: function () {
-          _agile.set_email(contact.email)
-          _agile.update_contact(contact, {
-            success: onSuccessAgilecrm,
-            error: onErrorAgilecrm
-          });
-        }
-    });
-    function onSuccessAgilecrm() {}
-    function onErrorAgilecrm() {}
-  }
-
   function savePipefy(data) {
     var payload = `
       mutation { 
@@ -121,15 +99,11 @@
     `
     var options = {
       method: 'POST',
-      headers: {
-        Accept: 'application/json',
-        Authorization: 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJ1c2VyIjp7ImlkIjozMDE0MzMzOTAsImVtYWlsIjoiY2VudGVub0BiZW1wLmNvbS5iciIsImFwcGxpY2F0aW9uIjozMDAxMTkyMzd9fQ.seaN9fW5gwTX2zBDt1ttUx4bscrQ3IQ701juv7GXayO0t7kB58cT6eF_BE-o2dbRamGAaAR6OHhvKFpUwZPjtg',
-        'Content-Type': 'application/json'
-      },
+      headers: { Accept: 'application/json' },
       body: JSON.stringify({ query: payload })
     }
   
-    return fetch('https://api.pipefy.com/graphql', options)
+    return fetch('https://9behrtqtuj.execute-api.us-east-1.amazonaws.com/pipefy-api-prod/leads', options)
       .then(response => response.json())
       .then(response => {
         if (response.errors !== undefined) {
@@ -165,7 +139,6 @@
 
     var data = getFormData(event.target);
     
-    saveAgilecrm(data);
     savePipefy(data).then(response => onSuccess()).catch(err => onError(err));
   });
 })(jQuery);
